@@ -13,6 +13,8 @@
 		9253102F1A7E4245007DA6C5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9253102E1A7E4245007DA6C5 /* Images.xcassets */; };
 		925310321A7E4245007DA6C5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 925310301A7E4245007DA6C5 /* LaunchScreen.xib */; };
 		9253103E1A7E4245007DA6C5 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9253103D1A7E4245007DA6C5 /* PostcardTests.swift */; };
+		925310481A7E4908007DA6C5 /* Plane.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 925310471A7E4908007DA6C5 /* Plane.JPG */; };
+		9253104A1A7E4B19007DA6C5 /* truckcop.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 925310491A7E4B19007DA6C5 /* truckcop.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		925310371A7E4245007DA6C5 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9253103C1A7E4245007DA6C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9253103D1A7E4245007DA6C5 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		925310471A7E4908007DA6C5 /* Plane.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Plane.JPG; sourceTree = "<group>"; };
+		925310491A7E4B19007DA6C5 /* truckcop.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = truckcop.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		925310251A7E4245007DA6C5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				925310491A7E4B19007DA6C5 /* truckcop.JPG */,
+				925310471A7E4908007DA6C5 /* Plane.JPG */,
 				925310261A7E4245007DA6C5 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				9253102D1A7E4245007DA6C5 /* Main.storyboard in Resources */,
 				925310321A7E4245007DA6C5 /* LaunchScreen.xib in Resources */,
+				925310481A7E4908007DA6C5 /* Plane.JPG in Resources */,
+				9253104A1A7E4B19007DA6C5 /* truckcop.JPG in Resources */,
 				9253102F1A7E4245007DA6C5 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
